@@ -1,2 +1,2 @@
 # Aula-05
-Variáveis no JavaScript (Sem exercicio de postagem)
+Variáveis no JavaScript (Sem exercicio de postagem).
